@@ -26,7 +26,7 @@ langkah-langkah membuat project django :
 Routing \n
 sama seperti pada framework lainnya kita juga bisa melakukan routing pada django, contoh sederhananya, Client memberikan Request untuk mengakses Halaman Buku pada Server Django namun PAGE NOT FOUND. Karena URL Buku yang di Request belum ada di Server. Untuk dapat melayani Request dari Client, harus dibuatkan URL baruJika sudah, maka Request dari Client akan dapat terpenuhi
 
-Apps \n
+Apps >
 Jika pada framework lain folder apps sudah tersedia dan kita tinggal mengotak-atiknya, pada django kita harus membuatnya secara otomatis dengan mengetikkan perintah pada terminal "django-admin startapp namaApp"
 
 View  \n
